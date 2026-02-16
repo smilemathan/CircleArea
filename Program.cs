@@ -14,7 +14,7 @@ namespace AreaOfCircle
             double By = 22 / 7;
             int r = 6;
             A = By * r * r;
-            Console.WriteLine("Area of Circle is: " + A);
+            Console.WriteLine("Area of Circle is : " + A);
             Console.ReadKey();
         }
     }
